@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "843589047150",
+    "firebase_url": "https://konradlorenz-2018-1-ac730.firebaseio.com",
+    "project_id": "konradlorenz-2018-1-ac730",
+    "storage_bucket": "konradlorenz-2018-1-ac730.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843589047150:android:2addb122d14b9d8a",
+        "android_client_info": {
+          "package_name": "co.edu.konradlorenz.autenticacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843589047150-17u19vsrvi2sppj2c19rbr9fdec0tkva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyjEYtowO_adDNWYEsszMRTHHjHS_pgoI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843589047150:android:0257e7047715e78a",
+        "android_client_info": {
+          "package_name": "co.edu.konradlorenz.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843589047150-17u19vsrvi2sppj2c19rbr9fdec0tkva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyjEYtowO_adDNWYEsszMRTHHjHS_pgoI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
